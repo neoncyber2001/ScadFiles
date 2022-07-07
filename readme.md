@@ -1,6 +1,6 @@
 # SCAD Files
 
-This is just a collection of Open Scad files which I have made that may be useful to others out there.
+This is just a collection of Open Scad files which I have made that may be useful to others out there. (at some point in the future i may also be putting  parametric models for other open FOSS 3d Modeling/CAD/CAE/CAM apps (like Blender or Freecad). 
 
 ## Listing
 
