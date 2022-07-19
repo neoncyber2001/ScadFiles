@@ -10,7 +10,7 @@ if(partproc==0){
 }
 else if(partproc==1){
     echo("Horizontal Cable Holder");
-    cable_comb_horizontal();
+    cable_comb_horizontal(CutSz=5, Length=130);
 }
 else{
     echo("Unknown Part");
